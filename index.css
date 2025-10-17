@@ -406,8 +406,7 @@ html {
 
 .project-image {
     height: 180px;
-    background: linear-gradient(45deg, var(--color-primary), var(--color-primary-light))
-            
+    background: linear-gradient(45deg, var(--color-primary), var(--color-primary-light));
     display: flex;
     align-items: center;
     justify-content: center;
