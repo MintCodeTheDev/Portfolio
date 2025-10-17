@@ -406,9 +406,8 @@ html {
 
 .project-image {
     height: 180px;
-    background: linear-gradient(45deg,
-            var(--primary-color),
-            var(--secondary-color));
+    background: linear-gradient(45deg, var(--color-primary), var(--color-primary-light))
+            
     display: flex;
     align-items: center;
     justify-content: center;
@@ -632,5 +631,6 @@ html {
     height: 24px;
   }
 }
+
 
 
