@@ -2,8 +2,8 @@
   --color-bg: #0a0a0a;
   --color-bg-alt: #1a1a1a;
   --color-bg-alt2: #2a2a2a;
-  --color-primary: #b60000;
-  --color-primary-light: #ff3333;
+  --color-primary: #a9b827;
+  --color-primary-light: #d1e000;
   --color-text: #ffffff;
   --color-text-secondary: #b0b0b0;
   --color-border: #333;
@@ -457,7 +457,7 @@ html {
 }
 
 .contact-info h3 {
-  color: #e45a24;
+  color: #e5ff00;
   margin-bottom: 1.5rem;
   font-size: 1.8rem;
 }
@@ -630,6 +630,5 @@ html {
     height: 24px;
   }
 }
-
 
 
